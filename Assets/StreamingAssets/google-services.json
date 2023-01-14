@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "689535003079",
+    "project_id": "unity-firebase-playground",
+    "storage_bucket": "unity-firebase-playground.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689535003079:android:bbe6508ab13750509b91e2",
+        "android_client_info": {
+          "package_name": "com.Bep.UnityFirebasePlayground"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689535003079-ulk0af0h1gi3che4vevuh1s8hvi6ua78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBjeS7ABQJPfkWDjlQVkCSSRnW_YijHA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689535003079-ulk0af0h1gi3che4vevuh1s8hvi6ua78.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "689535003079-r0n8e6m64tprh97oqoqv9d8a0v63q23r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Bep.UnityFirebasePlayground.Ch"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
